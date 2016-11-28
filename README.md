@@ -5,7 +5,7 @@ A module that provides Moono-lisa skin: http://ckeditor.com/addon/moono-lisa
 
 ### Installation
 
-1. Download the [Moono-lisa](https://github.com/tkoleary/moono-lisa) module, put it into the modules folder, then enable it.
+1. Download the [Moono-lisa](https://github.com/koleary/moonolisa) module, put it into the modules folder, then enable it.
 2. Done!
 
 ### License
